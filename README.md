@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey, i'm evan. 👋
+# Hey, I'm Evan. 👋
 ### Full Stack · Mobile · Blockchain Developer
 
 *Web. Mobile. Chain. That guy.*
@@ -18,10 +18,9 @@
 
 I build across every layer — web, mobile, and on-chain. While most devs pick a lane, I connect them. From shipping React Native apps to writing smart contracts in Solidity, Move, and Clarity, I work wherever the interesting problems are.
 
-- 🔭 Currently building at the intersection of **mobile** and **blockchain**
-- 🌱 Expanding into **Rust** and **Go** for systems-level work
-- ⛓️ Active in the [Nigeria Sui Builders](https://github.com/Nigeria-Sui-Builders) community
-- 📍 Based in Lagos · Available for remote projects & collaborations
+- Expanding into **Rust** and **Go** for systems-level work
+- Active in the [Nigeria Sui Builders](https://github.com/Nigeria-Sui-Builders) community
+- Based in Lagos · Available for remote projects & collaborations
 
 ---
 
