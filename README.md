@@ -84,8 +84,11 @@ I build across every layer — web, mobile, and on-chain. While most devs pick a
 ![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
-
 ---
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezedike-evan&show_icons=true&locale=en" alt="ezedike-evan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezedike-evan&" alt="ezedike-evan" /></p>
+
 <div align="center">
 
   *Open to freelance projects, collaborations, and full-time roles.*
