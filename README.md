@@ -86,8 +86,6 @@ I build across every layer — web, mobile, and on-chain. While most devs pick a
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezedike-evan&" alt="ezedike-evan" /></p>
-
 <div align="center">
 
   *Open to freelance projects, collaborations, and full-time roles.*
