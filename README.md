@@ -84,6 +84,4 @@ I build across every layer — web, mobile, and on-chain. While most devs pick a
 <div align="center">
 
   *Open to freelance projects, collaborations, and full-time roles.*
-
-  **Let's build something.** → [ezedike-evan.netlify.app](https://ezedike-evan.netlify.app/)
 </div>
