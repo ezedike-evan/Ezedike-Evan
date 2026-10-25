@@ -11,7 +11,7 @@
 
 ## about me
 
-I build across every layer — web, mobile, and on-chain. While most devs pick a lane, I connect them. From shipping React Native apps to writing smart contracts in Solidity, Move, and Clarity, I work wherever the interesting problems are.
+I build across every layer — web, mobile, and on-chain. While most devs pick a lane, I connect them. From shipping React Native apps to writing smart contracts in Solidity, Move, and Clarity, I work[...]
 
 - Expanding into **Rust** and **Go** for systems-level work
 - Active in the [Nigeria Sui Builders](https://github.com/Nigeria-Sui-Builders) community
@@ -84,4 +84,6 @@ I build across every layer — web, mobile, and on-chain. While most devs pick a
 <div align="center">
 
   *Open to freelance projects, collaborations, and full-time roles.*
+
+  **Let's build something.** → [ezedike-evan.netlify.app](https://ezedike-evan.netlify.app/)
 </div>
